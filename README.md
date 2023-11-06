@@ -22,6 +22,6 @@ Ottenuti i grafici richiesti, il candidato dovrà indicare quale modello si adat
 ---
 
 Il candidato può utilizzare qualsiasi strumento, linguaggio di programmazione o software che ritenga opportuno o consono all'analisi. 
-Il codice utilizzato per eseguire gli esercizi deve essere condiviso su questo repository creando una richiesta di pull di un apposito branco o invitanto @giusmar e @ccolantuono a partecipare ad un fork.
+Il codice utilizzato per eseguire gli esercizi deve essere condiviso su questo repository creando una richiesta di pull di un apposito branco o invitanto [@giusmar](https://github.com/giusmar) e [@ccolantuono](https://github.com/ccolantuono) a partecipare ad un fork.
 
 [^1]: Le spline di regressione implicano la divisione dell'intervallo di x in k regioni distinte. All'interno di ciascuna regione, una funzione polinomio è adattata ai dati. Tuttavia, questi polinomi sono vincolati in modo che si uniscano senza problemi di confini regionali o nodi. A condizione che l'intervallo sia diviso in un numero sufficiente di regioni, ciò può produrre un adattamento estremamente flessibile.
