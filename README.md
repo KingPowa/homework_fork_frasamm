@@ -16,12 +16,12 @@ Partendo da questi dati tabulari il candidato dovrà:
 ---
 
 ### Secondo esercizio
-Partendo dal risultato del primo esercizio, eseguire l'adattamento di una sequenza di modelli di spline naturali [^1], con gradi di libertà da 1 a 20. In particolare, è necessario mostrare come i gradi di libertà controllano il compromesso bias-varianza. 
+Partendo dal risultato del primo esercizio, eseguire l'adattamento di una sequenza di modelli di spline naturali [^1], con gradi di libertà da 1 a 20. In particolare, è necessario mostrare come i gradi di libertà controllino il compromesso bias-varianza. 
 Ottenuti i grafici richiesti, il candidato dovrà indicare quale modello si adatta meglio ai dati, e motivarne la scelta.
 
 ---
 
 Il candidato può utilizzare qualsiasi strumento, linguaggio di programmazione o software che ritenga opportuno o consono all'analisi. 
-Il codice utilizzato per eseguire gli esercizi deve essere condiviso su questo repository creando una richiesta di pull di un apposito branco o invitanto [@giusmar](https://github.com/giusmar) e [@ccolantuono](https://github.com/ccolantuono) a partecipare ad un fork.
+Il codice utilizzato per eseguire gli esercizi deve essere condiviso su questo repository creando una richiesta di pull di un apposito branch o invitanto [@giusmar](https://github.com/giusmar) e [@ccolantuono](https://github.com/ccolantuono) a partecipare ad un fork.
 
 [^1]: Le spline di regressione implicano la divisione dell'intervallo di x in k regioni distinte. All'interno di ciascuna regione, una funzione polinomio è adattata ai dati. Tuttavia, questi polinomi sono vincolati in modo che si uniscano senza problemi di confini regionali o nodi. A condizione che l'intervallo sia diviso in un numero sufficiente di regioni, ciò può produrre un adattamento estremamente flessibile.
